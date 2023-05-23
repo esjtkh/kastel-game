@@ -1,0 +1,22 @@
+﻿  kastel2.cpp
+C:\Users\Taha\source\repos\kastel2\kastel2\kastel2.cpp(165,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Taha\source\repos\kastel2\kastel2\kastel2.cpp(231,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Taha\source\repos\kastel2\kastel2\kastel2.cpp(254,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Taha\source\repos\kastel2\kastel2\kastel2.cpp(277,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Taha\source\repos\kastel2\kastel2\kastel2.cpp(316,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Taha\source\repos\kastel2\kastel2\kastel2.cpp(338,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Taha\source\repos\kastel2\kastel2\kastel2.cpp(361,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Taha\source\repos\kastel2\kastel2\kastel2.cpp(416,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Taha\source\repos\kastel2\kastel2\kastel2.cpp(439,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Taha\source\repos\kastel2\kastel2\kastel2.cpp(462,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Taha\source\repos\kastel2\kastel2\kastel2.cpp(642,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Taha\source\repos\kastel2\kastel2\kastel2.cpp(714,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Taha\source\repos\kastel2\kastel2\kastel2.cpp(739,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Taha\source\repos\kastel2\kastel2\kastel2.cpp(761,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Taha\source\repos\kastel2\kastel2\kastel2.cpp(796,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Taha\source\repos\kastel2\kastel2\kastel2.cpp(820,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Taha\source\repos\kastel2\kastel2\kastel2.cpp(843,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Taha\source\repos\kastel2\kastel2\kastel2.cpp(897,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Taha\source\repos\kastel2\kastel2\kastel2.cpp(921,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Taha\source\repos\kastel2\kastel2\kastel2.cpp(943,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  kastel2.vcxproj -> C:\Users\Taha\source\repos\kastel2\x64\Debug\kastel2.exe
